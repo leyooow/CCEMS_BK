@@ -1,0 +1,15 @@
+.css-6082y2-MuiDrawer-docked .MuiDrawer-paper {
+    width: 255px !important;
+   
+}
+
+@media (min-width: 0px) {
+    .css-6082y2-MuiDrawer-docked {
+        width: 250px !important;
+        
+    }
+}
+
+.css-1q4t1r2{
+    color: black !important;
+}

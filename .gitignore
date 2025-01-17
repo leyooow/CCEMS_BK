@@ -1,0 +1,16 @@
+
+*.cache
+/.vs
+/API/bin
+/API/obj
+/Application/bin
+/Application/obj
+/Domain/bin
+/Domain/obj
+/Infrastructure/obj
+/Infrastructure/bin
+/Tests/obj
+/.vs
+/.vs
+/Tests/bin
+API/appsettings.json
